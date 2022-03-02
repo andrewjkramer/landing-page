@@ -4,3 +4,14 @@
   font-family: roboto;
 }
 
+.navigation {
+  display: flex;
+}
+
+.link-list-items {
+  list-style-type: none;
+}
+
+li {
+  display: inline;
+}
