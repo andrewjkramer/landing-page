@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
+body {
+  margin-top: auto;
+  margin-right: 48px;
+  margin-bottom: auto;
+  margin-left: 48px;
+}
+
 * {
   font-family: roboto;
 }
