@@ -11,12 +11,31 @@ body {
   font-family: roboto;
 }
 
+a {
+  color: #E5E7EB;
+  text-decoration: none;
+  }
+
+a:hover {
+  color: #E5E7EB;
+}
+
+a:visited {
+  color: #E5E7EB;
+}
+
 .navigation {
   display: flex;
+
+  background-color: #1F2937;
 }
 
 .logo {
   flex: 1;
+
+  color: #F9FAF8;
+  font-size: 24px;
+  font-weight: 950;
 }
 
 .link-list-items {
@@ -26,4 +45,7 @@ body {
 
 li {
   display: inline;
+
+  color: #E5E7EB;
+  font-size: 18px;
 }
