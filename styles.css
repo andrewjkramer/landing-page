@@ -1,15 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
+* {
+  font-family: roboto;
+}
 
 body {
   margin-top: auto;
   margin-right: auto;
   margin-bottom: auto;
   margin-left: auto;
-}
-
-* {
-  font-family: roboto;
 }
 
 a {
