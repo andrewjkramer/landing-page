@@ -8,8 +8,13 @@
   display: flex;
 }
 
+.logo {
+  flex: 1;
+}
+
 .link-list-items {
   list-style-type: none;
+  flex: 1;
 }
 
 li {
